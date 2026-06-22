@@ -1,0 +1,4 @@
+interface:
+  display_name: "张一鸣思想"
+  short_description: "用张一鸣思想诊断产品、组织、人才、内容与复杂决策问题"
+  default_prompt: "Use $zhangyiming-thought to analyze this product, decision, team, or text through Zhang Yiming thought."
